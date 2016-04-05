@@ -8,11 +8,11 @@ To Run on the Command Line:
 
 Notes: 
 - Basic Mathematic Operations
-- handles negative values
-- doesn't handle doubles
+    - handles negative values
+    - doesn't handle doubles
 - Multi-operand operations
-- handles negative values (only for count and avg)
-- handles doubles (only for count and avg)
+    - handles negative values (only for count and avg)
+    - handles doubles (only for count and avg)
 
 
 -------------------------------

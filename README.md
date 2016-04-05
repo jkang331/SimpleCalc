@@ -1,6 +1,24 @@
 # SimpleCalc
 INFO 498B - Project 2
 
+To Run on the Command Line:
+- Navigate to folder with main.swift
+- Compile --> swiftc main.swift -o calc
+- Run --> ./calc
+
+Notes: 
+- Basic Mathematic Operations
+- handles negative values
+- doesn't handle doubles
+- Multi-operand operations
+- handles negative values (only for count and avg)
+- handles doubles (only for count and avg)
+
+
+-------------------------------
+
+
+
 Requirements:
  - Create a console calculator program
     - user can enter a number; hit return
@@ -20,16 +38,3 @@ Extra credit:
 
 
 
-To Run on the Command Line:
- - navigate to main.swift
- - "swiftc main.swift -o calc"
- - "./calc" to run
-
-
-Notes: 
- - Basic Mathematic Operations
-    - handles negative values
-    - doesn't handle doubles
- - Multi-operand operations
-    - handles negative values (only for count and avg)
-    - handles doubles (only for count and avg)
